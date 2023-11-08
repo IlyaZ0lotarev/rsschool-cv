@@ -19,12 +19,12 @@
 
 ## Пример кода
 
-'''
+```JavaScript
 function multiplay(a,b)
 {
 return a * b
 }
-'''
+```
 
 ## Знание языков
 
