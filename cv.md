@@ -20,7 +20,8 @@
 ## Пример кода
 
 '''
-function multiplay(a,b){
+function multiplay(a,b)
+{
 return a * b
 }
 '''
